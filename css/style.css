@@ -1,0 +1,28 @@
+.container img{
+    height: 60px;
+    width: 60px;
+}
+
+#header{
+    background-color: white;
+}
+#search-input{
+    background-color: white;
+}
+
+#picture-section{
+    background-color: white;
+}
+
+#header-two{
+    background-color: white;
+}
+
+#section-one{
+    border-radius: 50px;
+    background-color: white;
+}
+#footer{
+    background-color: white;
+   
+}
